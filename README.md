@@ -20,7 +20,7 @@ Install the dependencies using:
 ```bash
 pip install numpy matplotlib pandas
 git clone https://github.com/Lachiemckbioinfo/Resbaz2023-datasets.git
-cd Resbaz2023-datasets
+cd Resbaz2025-dataset
 ```
 ## Workshop Agenda
 
