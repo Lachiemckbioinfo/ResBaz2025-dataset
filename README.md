@@ -10,7 +10,7 @@ In this workshop, you will learn how to use large language models (LLMs), such a
 
 Before you begin, make sure you have the following installed:
 
-- Python 3.x
+- [Python 3.x](https://www.python.org/)
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [pandas](https://pandas.pydata.org/)
